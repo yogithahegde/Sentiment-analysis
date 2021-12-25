@@ -8,6 +8,7 @@ To start with any project, data is very important. Today we will learn different
 Once data is extracted and stored, it is time to process the data to eliminate unwanted entities in the text
 The most common steps involved in doing is so demonstrated however, it depends on the type of data we are dealing with and also the purpose of the project
 the steps are as follows:
+
 1.Lowercase  and remove unwanted spaces,special charecters,punctuations and numbers
 2. tokenize the text either into sentences or words or both
 3. stemming
