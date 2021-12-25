@@ -1,5 +1,5 @@
 # Webscraping
-To start with any project, data is very important. Today we will learn different methods of extracting tect data fromt he internet
+To start with any project, data is very important. Today we will learn different methods of extracting data from the internet
 1. Using beautifulSoup to extract text from a website
 2. Using scrapy to extract texts
 3. Learn different methods to extract texts from an image
